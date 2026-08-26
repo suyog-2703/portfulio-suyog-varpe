@@ -1,6 +1,7 @@
 /**
  * Single source of truth for personal details.
- * Update the social URLs below — they are best-guess placeholders.
+ * Update the social URLs below when a handle changes — hero, contact and
+ * footer all read them from here.
  */
 export const site = {
   name: "Suyog Varpe",
@@ -20,8 +21,8 @@ export const site = {
     "Full Stack Developer with 2+ years of professional experience building scalable web applications and high-performance APIs. I specialise in Node.js, Next.js, React and database optimisation — from authentication systems and payment flows to third-party integrations and data pipelines.",
 
   socials: {
-    github: "https://github.com/suyogvarpe",
-    linkedin: "https://www.linkedin.com/in/suyog-varpe",
+    github: "https://github.com/suyog-2703",
+    linkedin: "https://www.linkedin.com/in/suyogvarpe/",
   },
 
   // Metrics shown in the hero strip
