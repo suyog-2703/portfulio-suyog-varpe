@@ -21,7 +21,7 @@ export const site = {
 
   socials: {
     github: "https://github.com/suyogvarpe",
-    linkedin: "https://www.linkedin.com/in/suyog-varpe",
+    linkedin: "https://www.linkedin.com/in/suyogvarpe/",
   },
 
   // Metrics shown in the hero strip
